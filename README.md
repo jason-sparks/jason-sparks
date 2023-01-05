@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jason-sparks
 - 👀 I’m interested in software development, cloud computing, and cybersecurity
-- 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on cloud applications and cybersecurity projects 
+- 🌱 I’m currently learning Java  
+- 💞️ I’m looking to collaborate on cloud/web applications and cybersecurity projects  
 - 📫 How to reach me ... mailto:jsparks18@yahoo.com
 
 <!---
